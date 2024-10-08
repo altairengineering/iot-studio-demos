@@ -48,7 +48,7 @@ Follow the instructions in the [IoT tutorial's documentation](https://help.altai
 Want to help us make this smart home project even smarter? Feel free to contribute, whether it's adding new features, improving automation, or just fixing bugs. Your contributions are always welcome!
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 A big shoutout to the contributors and the Altair® IoT Studio™ team for their support in bringing this project to life! 🙌
